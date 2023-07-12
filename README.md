@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Ahmed Safta</h1>
 <h3 align="center">A passionate web developer from Tunisia</h3>
 <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" alt="Safta GitHub" width="400">
