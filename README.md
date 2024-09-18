@@ -4,9 +4,9 @@
 <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" alt="Safta GitHub" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedsafta71&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedsafta71" /> </p>
 
-- 🔭 I’m currently working as an intern **Banking Project**
+- 🔭 I’m currently working on  **Cybersecurity and DevOps Projects**
 
-- 🌱 I’m currently learning **Spring boot & Devops**
+- 🌱 I’m currently an engineering student at **INSA CVL**
 
 - 💬 Ask me about **Network Security and cloud Computing**, **Terraform**, **DevOps** , **AWS** **Cloud** , **Docker**, **Kubernetes** ,**React.js** , **Node js** ,**Spring Boot**, **Linux**
 
