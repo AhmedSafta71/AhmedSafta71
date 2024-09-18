@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Spring boot & Devops**
 
-- 💬 Ask me about **React.js , Node js , Spring Boot , Docker , Linux ,Network Security and cloud Computing**
+- 💬 Ask me about **Network Security and cloud Computing**, **Terraform**, **DevOps** , **AWS** **Cloud** , **Docker**, **Kubernetes** ,**React.js** , **Node js** ,**Spring Boot**, **Linux**
 
 - 📫 How to reach me **ahmedsafta71@gmail.com**
 
